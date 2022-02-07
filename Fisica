@@ -1,0 +1,14 @@
+class CalculadoraFisica public constructor() {
+    fun CalcularForcaCentripeta(raio: kotlin.Float, velocidade: kotlin.Float, massa: kotlin.Float): kotlin.Float { /* compiled code */ }
+
+    fun CalcularForcaElastica(forca: kotlin.Float, gravidade: kotlin.Float): kotlin.Float { /* compiled code */ }
+
+    fun CalcularForcaPeso(massa: kotlin.Float, gravidade: kotlin.Float): kotlin.Float { /* compiled code */ }
+
+    fun CalcularImpulso(forca: kotlin.Float, tempo: kotlin.Float): kotlin.Float { /* compiled code */ }
+
+    fun CalcularMRU(velocidade: kotlin.Float, tempo: kotlin.Float): kotlin.Float { /* compiled code */ }
+
+    fun CalcularMRUV(deslocamento: kotlin.Float, velocidade: kotlin.Float, tempo: kotlin.Float): kotlin.Float { /* compiled code */ }
+
+    fun CalcularVelocidadeMedia(deslocamento: kotlin.Float, tempo: kotlin.Float): kotlin.Float { /* compiled code */ }
